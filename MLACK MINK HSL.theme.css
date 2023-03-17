@@ -1,0 +1,15 @@
+/*---------------------------------------------------------------
+   Theme Import you can't disable this is the full theme dummy
+---------------------------------------------------------------*/
+@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito-base.css');
+/*---------------------------------------------------------------
+                        Custom Settings
+---------------------------------------------------------------*/
+/* Animate the background */
+@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
+
+/* Pop Effect */
+@import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
+
+/* Horizontal Server */
+@import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
